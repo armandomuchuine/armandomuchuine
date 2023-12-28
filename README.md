@@ -2,7 +2,7 @@ ola !! eu sou Armando Muchuine 🤗
 
 [![Blog](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)]()
 
-[![Linkedin](linkedin.com/in/armando-muchuine)]()
+[![Linkedin](https://img.shields.io/badge/Linkedin-FF5722?style=for-the-badge&logo=linkedin&logoColor=white)]()
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)]()
 
