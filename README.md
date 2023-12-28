@@ -27,8 +27,8 @@ sou um jovem apaixonado por tecnologias, espero que gostem do meu github.obrigad
 
 ## meu contacto
 <div>
-Proprio- 845205081
+Proprio- +258-845205081
 </div><br>
 <div>
-Outro- 878559007
+Outro- +258-878559007
 </div><br>
