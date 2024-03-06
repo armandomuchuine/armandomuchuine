@@ -23,7 +23,7 @@ ola !! eu sou Armando Muchuine 🤗
 </div>
 </br>
 
-sou um jovem apaixonado por tecnologias, espero que gostem do meu github.obrigado
+sou um jovem apaixonado por tecnologias, espero que gostem da minha conta.obrigado
 
 ## meu contacto
 <div>
